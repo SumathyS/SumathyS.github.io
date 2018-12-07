@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Sumathy Sinnathamby / ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Sumathy Sinnathamby"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=LusPjWcAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/sumathysinnathamby"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
