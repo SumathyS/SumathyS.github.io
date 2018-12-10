@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sumathy S / ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)"
+title                    : "Sumathy Sinnathamby / ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)"
 title_separator          : "-"
 name                     : &name "Sumathy Sinnathamby"
 description              : &description "personal description"
-url                      : https://github.com/SumathyS # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sumathysinnathamby.github.io# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SumathyS/SumathySinnathamby.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Sumathy Sinnathamby is originally from Sri Lanka. She received her PhD from Kansas State University. She has her M.E. degree in Civil Engineering (Boise State University, Idaho) and M.S. degrees in Aquatic Tropical Ecology (University of Bremen, Germany). Her B.S. degree is in Agriculture (University of Jaffna, Sri Lanka). Prior to joining with EPA, she worked with Division of Water Resources, Kansas Department of Agriculture.Her work over the past 8 years focused on biophysical modeling of flow, ecohydrological indicators, crop yield, sediment and nutrients at field to watershed scale; identifying impacts of intensive land use (biofuel), best management practices and climate change on water quality and quantity; identifying interrelationship of climatic and ecohydrologic indicators trends and their correlation to observed changes in aquatic species presence and distribution; honey bee decline and related agro-socio-economic impacts and responses; application of geographic information system (GIS) and remote sensing in water resources; and quantifying spatial and temporal environmental variation and degree of anthropogenic impact on riverine physiochemical conditions. Sumathy is married to Muluken Muche and they have a daughter named Sophia."
   location         : "Athens, GA"
-  employer         :
+  employer         : "ORISE - EPA ORD"
   googlescholar    : "https://scholar.google.com/citations?user=LusPjWcAAAAJ&hl=en"
   email            :
   uri              :
@@ -251,11 +251,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -305,3 +305,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+309	theme: jekyll-theme-slate # minimal-mistakes-jekyll
+310	# minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum" "sunrise" 
