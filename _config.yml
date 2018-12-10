@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Sumathy Sinnathamby"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Sumathy Sinnathamby"
-description              : &description "ORISE Postdoctoral Fellow at US Environmental Protection Agency"
-url                      : https://sumathys.github.io #base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SumathyS.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,25 +80,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sumathy Sinnathamby"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Sumathy Sinnathamby is originally from Sri Lanka. She received her PhD from Kansas State University. She has her M.E. degree in Civil Engineering (Boise State University, Idaho) and M.S. degrees in Aquatic Tropical Ecology (University of Bremen, Germany). Her B.S. degree is in Agriculture (University of Jaffna, Sri Lanka). Prior to joining with EPA, she worked with Division of Water Resources, Kansas Department of Agriculture.Her work over the past 8 years focused on biophysical modeling of flow, ecohydrological indicators, crop yield, sediment and nutrients at field to watershed scale; identifying impacts of intensive land use (biofuel), best management practices and climate change on water quality and quantity; identifying interrelationship of climatic and ecohydrologic indicators trends and their correlation to observed changes in aquatic species presence and distribution; honey bee decline and related agro-socio-economic impacts and responses; application of geographic information system (GIS) and remote sensing in water resources; and quantifying spatial and temporal environmental variation and degree of anthropogenic impact on riverine physiochemical conditions. Sumathy is married to Muluken Muche and they have a daughter named Sophia."
-  location         : "Athens, GA"
-  employer         : "ORISE - EPA ORD"
-  googlescholar    : "https://scholar.google.com/citations?user=LusPjWcAAAAJ&hl=en"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : # researchgate     :#"https://www.researchgate.net/profile/Sumathy_Sinnathamby"
+  flickr           :
+  facebook         :
   foursquare       :
-  github           : "sumathys"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  #linkedin         :"https://www.linkedin.com/in/sumathysinnathamby"
+  linkedin         :
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -250,11 +251,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -304,6 +305,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-#theme: jekyll-theme-slate # minimal-mistakes-jekyll
-# minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "default", "neon", "mint", "plum" "sunrise" 
