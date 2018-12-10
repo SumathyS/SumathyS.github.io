@@ -18,7 +18,7 @@ Education
 * M.S., Aquatic Tropical Ecology, University of Bremen, Germany, 2007
 * B.S., Agriculture, University of Jaffna, Faculty of Agriculture, Sri Lanka,2003
 
-Work experience
+Professional Experience
 ======
 * Oct.2016-Present: ORISE Postdoctoral Fellow
   * US EPA/ORD-NERL-CED-Watershed Exposure Branch
@@ -98,6 +98,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Programming
 ======
-* Currently signed in to 43 different slack teams
+* Languages: R, Python, Matlab, SAS
+* IDEs: PyCharm, RStudio
+
+Honor/ Membership
+======
+* Member of The Honor Society of Phi Kappa Phi, K-State Chapter Member 
+* Member of Golden Key, International Honor Society 
+* The National Society of Leadership and Success: A Community of Leaders
+* Idaho State Section of the American Water Resources Association 
+
+Academic Achievements
+======
+* Won University prize (Thambaiah Mudaliyar Chatram Trust) for the best performance in the First Examination in Agriculture-1999 for the academic year 1998/99
+* Won University prize for the best performance in the Fourth Examination in Agriculture -2002 for the academic year 2001/2002
+* Broke the record during first year Examination in Agriculture (3.95/4.00)
+
+Scholarships
+======
+* DAAD Scholarship
+* Bertelsmann Data Science Challenge Scholarship 2018/2019
