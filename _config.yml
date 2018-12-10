@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Athens, Georgia"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=LusPjWcAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=LusPjWcAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :"https://www.linkedin.com/in/sumathysinnathamby"
+  linkedin         :#"https://www.linkedin.com/in/sumathysinnathamby"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
