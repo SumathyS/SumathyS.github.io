@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 7"
+title: "Coming soon!"
 collection: publications
 permalink: /publication/2019-10-01-comingsoon-sinnathambyetal
 excerpt: 'This paper is about the number 7. The number 8 is left for future work.'
