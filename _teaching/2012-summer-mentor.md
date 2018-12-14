@@ -8,7 +8,7 @@ date: 2012-05-01
 location: "Manhattan,USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Mentored undergraduate students for two consecutive Summer under Research Experience for Undergraduates Summer Program Center for Sustainable Energy, Kansas State University
 
 Heading 1
 ======
