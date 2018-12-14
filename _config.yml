@@ -142,7 +142,7 @@ exclude:
   - Rakefile
   - README
   - tmp
-  - [vendor]
+  - vendor
 keep_files:
   - .git
   - .svn
