@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Impacts of biofuel-based land-use change on water quality and sustainability in a Kansas watershed"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2016-05-01-WaterQuality-sinnathambyetal
 excerpt: 'This paper is about the number 4. The number 5 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2010-05-01
+venue: 'Agricultural Water Management'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378377416301585'
+citation: 'Yasarer L.W., S. Sinnathamby, B. Sturm. (2016). &quot;Impacts of biofuel-based land-use change on water quality and sustainability in a Kansas watershed.&quot; <i>Agricultural Water Management</i>. 175(2016).'
 ---
 This paper is about the number 4. The number 5 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://SumathyS.github.io/files/paper4.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Yasarer L.W., S. Sinnathamby, B. Sturm. (2016). "Impacts of biofuel-based land-use change on water quality and sustainability in a Kansas watershed." <i>Agricultural Water Management</i>. 175(2016).

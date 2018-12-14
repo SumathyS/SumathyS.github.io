@@ -10,6 +10,6 @@ citation: 'Sinnathamby, S., Y. Assefa, A. Granger, L. Tabor, K. Douglas Mankin. 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://SumathyS.github.io/files/paper3.pdf)
+[Download paper here](http://SumathyS.github.io/files/paper1.pdf)
 
 Recommended citation: Sinnathamby, S., Y. Assefa, A. Granger, L. Tabor, K. Douglas Mankin. (2013). "ollinator decline: US Agro-Socio-Economic Impacts and Responses" <i>J.Natural Environ.Sciences</i>. 4(1).

@@ -10,6 +10,6 @@ citation: 'Sinnathamby, S., K.R. Douglas-Mankin, M.Muche, S.Hutchinson and A.Aav
 ---
 This paper is about the number 7. The number 8 is left for future work.
 
-[Download paper here](http://SumathyS.github.io/files/paper1.pdf)
+[Download paper here](http://SumathyS.github.io/files/paper6.pdf)
 
 Recommended citation: Sinnathamby, S., K.R. Douglas-Mankin, M.Muche, S.Hutchinson and A.Aavudai.(2018). "Ecohydrological index, native fish, and climate trends and relationships in the Kansas River basin." <i>Ecohydrology </i>. 11(1).
