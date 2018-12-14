@@ -2,9 +2,9 @@
 title: "Undergraduates Summer Program Center for Sustainable Energy, Kansas State University"
 collection: teaching
 type: "Mentor"
-permalink: /teaching/2013-summer-mentor
+permalink: /teaching/2012-summer-mentor
 venue: "Department of Biological and Agricultural Engineering, Kansas State University"
-date: 2013-05-01
+date: 2012-05-01
 location: "Manhattan,USA"
 ---
 
