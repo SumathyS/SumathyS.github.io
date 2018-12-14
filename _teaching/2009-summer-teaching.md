@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Lab instructor"
 collection: teaching
 type: "Graduate course GIS in Water Resources Modeling (CE 537)"
 permalink: /teaching/2009-summer-teaching
@@ -8,7 +8,7 @@ date: 2009-05-01
 location: "Boise, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Jan. 2008- May. 2010 Lab instructor of a graduate-level course in GIS in Water Resources Modeling(CE 537).
 
 Heading 1
 ======

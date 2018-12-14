@@ -8,7 +8,7 @@ date: 2014-01-01
 location: "Manhattan, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted lab sessions on SWAT model setup and application in undergraduate/graduate-level course in Watershed Modeling (BAE 669) .
 
 Heading 1
 ======

@@ -8,7 +8,7 @@ date: 2012-01-01
 location: "Manhattan, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Spring 2010-Spring 2012 Developed lab materials and conducted lab sections on STEPL model setup, application, BMP simulations and load reductions in undergraduate/graduate-level course in Watershed Modeling (BAE 669) and undergraduate-level course in Watershed Management (ATM 661).
 
 Heading 1
 ======
