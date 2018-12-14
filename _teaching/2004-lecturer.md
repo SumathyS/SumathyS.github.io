@@ -8,7 +8,7 @@ date: 2004-01-01
 location: "Jaffna, Sri Lanka"
 ---
 
-Nov. 2004- Nov. 2007. Developed course materials and lectured to first and final year undergraduate classes in the areas of animal science; grade exams, assignments and oral examination; and prepared lab materials and conducted lab sessions .
+Dec. 2004- Nov. 2007. Developed course materials and lectured to first and final year undergraduate classes in the areas of animal science; grade exams, assignments and oral examination; and prepared lab materials and conducted lab sessions .
 
 Heading 1
 ======
