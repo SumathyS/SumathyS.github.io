@@ -98,6 +98,30 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Presentations/Posters
+======
+* Sinnathamby, S., Muche, M., and T. Purucker. 2017. Sustainable environmental flow management in an agricultural watershed in northeast Kansas. Portland ESA 2017. August 6-11. https://eco.confex.com/eco/2017/webprogram/Paper67932.html 
+* Purucker, T., Ignatius, A.R., Kuan, A.C., Sinnathamby, S., and C. Stevens.  2017. Landscape analysis of pesticide use patterns and ecological exposure. Portland ESA 2017. August 6-11. https://eco.confex.com/eco/2017/webprogram/Paper68520.html 
+* Muche, M., Sinnathamby, S., and J, M. Johnston. 2017. Analysis of endangered Kansas fish species distribution during historical and contemporary periods (pre- and post-1969). Portland ESA 2017. August 6-11. https://eco.confex.com/eco/2017/webprogram/Paper67986.html 
+* Gao, J., A.Y. Sheshukov, and S. Sinnathamby. 2015. Impacts of Variability of Climate Datasets on Watershed Hydrology under Changing Climate. Proceedings of the ASABE 1st Climate Change Symposium: Adaptation and Mitigation. Chicago, IL, 3-5 May, 2015.
+* Yasarer L.W., Sinnathamby,S., and Sturm, B. 2014. Investigating Impacts of Biofuel-Based Landscapes on Kansas Reservoir Water Quality Using the SWAT Model. EWRI World Environment and Water Resources Congress, Portland, Oregon. 
+* Sinnathamby, S., A. Anandhi, S.Hutchinson and K.R. Douglas-Mankin. 2013.Evaluating the ability of the SWAT to replicate hydro-ecologically relevant indicators. Governor’s Conference on the Future of Water in Kansas, Manhattan, KS.
+* Sinnathamby, S., L. Witthaus, S.Hutchinson, A.Y.Sheshukovand K.R. Douglas-Mankin. 2013. Environmental Impacts of Biofuels Production: The Case of Northeast, West Central and Central Kansas Agricultural Districts. Biofuels, Climate Change and Mitigation: Annual Research Symposium, University of Kansas, Lawrence, KS.
+* Sinnathamby, S., L. Witthaus, S.Hutchinson, and K.R. Douglas-Mankin. 2013.Linking water quality and valuation of ecosystem services. Biofuels, Climate Change and Mitigation: Annual Research Symposium, University of Kansas, Lawrence, KS.
+* Yasarer L.W., Sturm, B., Sinnathamby, S., and White, S.S. 2013. Exploring Climate Change in Kansas Watersheds through Hydrologic Modeling and Social Surveys. Kansas NSF EPSCoR Conference, Lawrence, Kansas. 
+* Yasarer L.W., Sturm, B., Sinnathamby, S., and White, S.S. 2013. Exploring Climate Change in Kansas Watersheds through Hydrologic Modeling and Social Surveys. National NSF EPSCoR Conference, Nashville, Tennessee.
+* Sinnathamby, S., L. Witthaus,L. Bejot, and K.R. Douglas-Mankin.2012. Environmental Impacts of Biofuels and Climate Change in Kansas: Stage 2 – Model Calibration and Future Application. Biofuels, Climate Change and Mitigation: Annual Research Symposium, University of Kansas in Lawrence, KS.
+* Hendricks, N., S.Sinnathamby, A. Smith, L. Bejot, K.R. Douglas-Mankin, and D.A. Sumner. 2012.Effects of Increased Corn Prices on Water Quality. Biofuels, Climate Change and Mitigation: Annual Research Symposium, University of Kansas, Lawrence, KS.
+* Witthaus, L., Sinnathamby, S., Sturm, B., Brunsell, N., and Douglas-Mankin K. 2012. Using Predictive Modeling Tools to Better Understand Water Quality Impacts from Extreme Precipitation Events.  Governor’s Conference on the Future of Water in Kansas, Manhattan, Kansas.
+* Witthaus,L., Sinnathamby,S., L. Bejot, B.S.M. Sturm, and K.R. Douglas-Mankin (2012).Environmental Impacts of Biofuels and Climate Change in Kansas: Stage 1 – Model setup and Inputs,Biofuels, Climate Change and Mitigation: Annual Research Symposium,University of Kansas,Lawrence, KS.
+* Sinnathamby, S.(2012).Chemometric Determination of Top Soil Organic Carbon and Total Nitrogen, Chemometric Analysis Seminar, Kansas State University, May 8, 2012.
+* Sinnathamby, S. and V.Sridhar (2010).Land Use Impacts on Water Quality in the BoiseRiver System.  20th Annual Water Quality Conference, Idaho Department of Environmental Quality http://www.deq.state.id.us/water/assist_business/workshops/water_quality_workshop_10_agenda.cfm
+* Sinnathamby, S. and V.Sridhar (2010) The non-point source pollution in the Portneuf Watershed: Modeling with SWAT, Annual Water Resources Conference 
+* Sinnathamby, S. and V.Sridhar (2010) Incorporating Root Zone Soil Moisture Using Two Modeling Approaches and a Data Assimilation Technique in Different Climatic Divisions of Nebraska(co-author) November 2008 Annual Water Resources Conference (Presented by Dr. Venkat Sridhar) 
+* Soil Moisture Retrieval from AMSR-E: A Statewide Application and Verification Using Observations and the SWAT Model: 2008 Joint Meeting of The Geological Society of America (Presented by Dr. Venkat Sridhar) http://acs.confex.com/crops/2008am/techprogram/P50936.HTM
+* Hoekema,D.J., Sinnathamby,S.,Jin,X., Sridhar,V.R.(2009) Vulnerability of the Snake River Basin and subbasins to climatic change; Poster Presentation. American Geophysical Union, Fall Meeting 2009, abstract #U13B-0053
+* Sinnathamby, S.Observation of water storage by gravity measurements: Research colloquia, Faculty of Civil Engineering and Geosciences, Delft, University of Technology, Netherlands. http://www.citg.tudelft.nl/live/pagina.jsp?id=d657193f-6584-492e-a2b9-d46d574bca60&lang=en
+
 Reports
 ======
 * Basin Management Team. McPherson IGUCA Review. Oct. 2016, Kansas Department of Agriculture, Division of Water Resources (DWR) 
