@@ -1,5 +1,5 @@
 ---
-title: "Lecturer (Probationary)"
+title: "Lecturer"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2004-lecturer

@@ -1,5 +1,5 @@
 ---
-title: "Assistant Lecturer (Temporary)"
+title: "Assistant Lecturer"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2004-Assistant-Lecturer
