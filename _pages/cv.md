@@ -98,6 +98,19 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Reports
+======
+* Basin Management Team. McPherson IGUCA Review. Oct. 2016, Kansas Department of Agriculture, Division of Water Resources (DWR) 
+* Basin Management Team. Burrton IGUCA Review.Mar.2016, Kansas Department of Agriculture, Division of Water Resources (DWR) 
+* Douglas-Mankin, K.R., A.Y. Sheshukov, A.P.Nejadhashemi, J. Roe, S. Sinnathamby, C.M. Smith, R.M. Wilson, S.P. Brown, J.C. Leatherman, W. Hargrove. 2011. Watershed Restoration and Protection Strategy (WRAPS) Project, Final Reports. Kansas Dept. of Health and Environment, Bureau of Water. Topeka, KS.
+	* Milford Lake Watershed Assessment. KDHE Project No. 2004-0027.
+	* Neosho River Watershed Assessment. KDHE Project No. 2004-0029.
+	* Toronto Lake Watershed Assessment. KDHE Project No. 2007-0063.
+	* Tuttle Creek Lake Watershed Assessment. KDHE Project No. 2004-0032.
+
+* Douglas-Mankin, K.R., S.P. Brown, R. Frisbie, S. Sinnathamby, W. Hargrove. 2011. Watershed Restoration and Protection Strategy (WRAPS) Project, Final Report.  Kansas Dept. of Health and Environment, Bureau of Water. Topeka, KS.
+	* Upper Arkansas River Basin Watershed Assessment. KDHE Project No. 2006-0076.
+  
 Programming
 ======
 * Languages: R, Python, Matlab, SAS
