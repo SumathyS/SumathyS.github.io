@@ -59,6 +59,11 @@ Professional Experience
   * Research activities:
 	* Conducted watershed scale research related to land use impacts, climates change on water quality and quantity;  modeled hydrological projections using downscaled precipitation and temperature outputs from a suite of global climate models and the Soil and Water Assessment Tool (SWAT); and used GIS and remote sensing products (AMSR-E) to model soil moisture at state level (Nebraska).
 
+* Oct. 2007- Dec. 2007: Research Assistant
+  * Faculty of Civil Engineering and Geosciences, Delft, University of Technology, Netherlands
+  * Research activities:
+	* Conducted research on observation of groundwater storage by gravity measurements.
+	
 * Nov. 2004- Nov. 2007: Lecturer (Probationary)
   * Department of Animal Science, Faculty of Agriculture, University of Jaffna, Sri Lanka
 
