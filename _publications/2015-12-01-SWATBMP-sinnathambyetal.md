@@ -2,7 +2,7 @@
 title: "Pasture BMP effectiveness using an HRU-based subarea approach in SWAT"
 collection: publications
 permalink: /publication/2015-12-01-SWATBMP-sinnathambyetal
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This study develop and demonstrate a method to evaluate water-quality impacts and the effectiveness of two widely used BMPs on a livestock pasture: off-stream watering site and stream fencing.'
 date: 2015-12-01
 venue: 'Journal of Environmental Management '
 paperurl: 'https://www.researchgate.net/publication/283291308_Pasture_BMP_effectiveness_using_an_HRU-based_subarea_approach_in_SWAT'

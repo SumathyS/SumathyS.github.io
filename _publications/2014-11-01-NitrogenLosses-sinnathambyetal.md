@@ -2,7 +2,7 @@
 title: "The Environmental Effects of Crop Price Increases: Nitrogen Losses in the U.S. Corn Belt"
 collection: publications
 permalink: /publication/2014-11-01-NitrogenLosses-sinnathambyetal
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'In this paper we estimate the effect of crop prices on nitrogen lossesformostfieldsinIowa,Illinois,and Indiana using crop data from satellite imagery.'
 date: 2014-11-01
 venue: 'Journal of Environmental Economics and Management'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0095069614000710'

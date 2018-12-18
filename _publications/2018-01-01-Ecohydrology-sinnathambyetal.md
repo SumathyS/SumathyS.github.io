@@ -2,7 +2,7 @@
 title: "Ecohydrological index, native fish, and climate trends and relationships in the Kansas River basin"
 collection: publications
 permalink: /publication/2018-Ecohydrology-sinnathamby-et-al
-excerpt: 'Ecohydrology-Fish-Species'
+excerpt: 'This study quantified climatological and hydrological trends and relationships to presence and distribution of 2 native aquatic species in the Kansas River basin over the past half century'
 date: 2018-01-01
 venue: 'Ecohydrology'
 paperurl: 'https://doi.org/10.1002/eco.1909'
