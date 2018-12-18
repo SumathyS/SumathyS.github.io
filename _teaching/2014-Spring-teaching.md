@@ -10,11 +10,3 @@ location: "Manhattan, USA"
 
 Conducted lab sessions on SWAT model setup and application in undergraduate/graduate-level course in Watershed Modeling (BAE 669) .
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

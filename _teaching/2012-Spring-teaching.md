@@ -10,11 +10,3 @@ location: "Manhattan, USA"
 
 Spring 2010-Spring 2012 Developed lab materials and conducted lab sections on STEPL model setup, application, BMP simulations and load reductions in undergraduate/graduate-level course in Watershed Modeling (BAE 669) and undergraduate-level course in Watershed Management (ATM 661).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

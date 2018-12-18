@@ -10,11 +10,4 @@ location: "Manhattan,USA"
 
 Mentored undergraduate students for two consecutive Summer under Research Experience for Undergraduates Summer Program Center for Sustainable Energy, Kansas State University
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======

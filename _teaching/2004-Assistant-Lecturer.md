@@ -10,11 +10,3 @@ location: "Jaffna, Sri Lanka"
 
 Dec. 2003- Oct. 2004 Developed course materials and lectured to first and final year undergraduate classes in the areas of animal science; grade exams, assignments and oral examination; and prepared lab materials and conducted lab sessions
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
