@@ -1,6 +1,6 @@
 ---
 title: "Environmental exposures and effects of pesticides"
-excerpt: "Solving problems using deterministic and probabilistic approaches  1<br/><img src='/images/500x300.png'>"
+excerpt: "Solving problems using deterministic and probabilistic approaches  <br/><img src='/images/500x300.png'>"
 collection: research
 ---
 
