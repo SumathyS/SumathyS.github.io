@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Sumathy Sinnathamby is originally from Sri Lanka. She received her PhD from Kansas State University. She has her M.E. degree in Civil Engineering (Boise State University, Idaho) and M.S. degrees in Aquatic Tropical Ecology (University of Bremen, Germany). Her B.S. degree is in Agriculture (University of Jaffna, Sri Lanka). Prior to joining with EPA, she worked with Division of Water Resources, Kansas Department of Agriculture.
+I am Sumathy Sinnathamby and I am an ORISE postdoctoral fellow at a US Environmental Protection Agency laboratory in Athens, Georgia. I am working with watershed modelers, engineers,  ecologists, chemists, statisticians, and programmers conducting research on environmental protection and sustainability. 
 
-Her work over the past 8 years focused on biophysical modeling of flow, ecohydrological indicators, crop yield, sediment and nutrients at field to watershed scale; identifying impacts of intensive land use (biofuel), best management practices and climate change on water quality and quantity; identifying interrelationship of climatic and ecohydrologic indicators trends and their correlation to observed changes in aquatic species presence and distribution; honey bee decline and related agro-socio-economic impacts and responses; application of geographic information system (GIS) and remote sensing in water resources; and quantifying spatial and temporal environmental variation and degree of anthropogenic impact on riverine physiochemical conditions. 
+I have a multidisciplinary background and always brings this perspective to my work. I find that being able to look at problems from many perspectives help me "think outside box", enhance my creativity and innovation, and can lead to novel solutions. 
 
-Sumathy is married to Muluken Muche and they have a daughter named Sophia.   
+I am married to Muluken Muche and we have a beautiful daughter named Sophia
 
 For more info
 ------
