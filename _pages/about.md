@@ -14,6 +14,4 @@ I have a multidisciplinary background and always brings this perspective to my w
 
 I am married to Muluken Muche and we have a beautiful daughter named Sophia
 
-For more info
-------
-Contact Sumathy at sinnathamby.sumathy@epa.gov/ sinnathamby.sumathy@gmail.com
+<br/><img src='/images/500x300.png'>
