@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Sumathy Sinnathamby"
+title                    : "Sumathy Sinnathamby"
 title_separator          : "-"
-name                     : &name "Dr. Sumathy Sinnathamby"
+name                     : &name "Sumathy Sinnathamby"
 description              : &description "ORISE Postdoctoral Fellow at US Environmental Protection Agency"
 url                      : https://sumathys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
