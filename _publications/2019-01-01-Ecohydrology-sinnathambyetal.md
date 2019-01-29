@@ -1,7 +1,7 @@
 ---
 title: "A unified approach for protecting listed species and ecosystem services in isolated wetlands using community level protection goals"
 collection: publications
-permalink: /publication/2018-Ecohydrology-sinnathamby-et-al
+permalink: /publication/2019-Ecohydrology-sinnathamby-et-al
 excerpt: 'This study quantified climatological and hydrological trends and relationships to presence and distribution of 2 native aquatic species in the Kansas River basin over the past half century.'
 date: 2019-01-01
 venue: 'Ecohydrology'
