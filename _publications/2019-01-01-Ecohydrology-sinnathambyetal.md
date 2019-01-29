@@ -1,5 +1,5 @@
 ---
-title: "Ecohydrological index, native fish, and climate trends and relationships in the Kansas River basin"
+title: "A unified approach for protecting listed species and ecosystem services in isolated wetlands using community level protection goals"
 collection: publications
 permalink: /publication/2018-Ecohydrology-sinnathamby-et-al
 excerpt: 'This study quantified climatological and hydrological trends and relationships to presence and distribution of 2 native aquatic species in the Kansas River basin over the past half century.'
