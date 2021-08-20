@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sumathy Sinnathamby and I am an ORISE postdoctoral fellow at a US Environmental Protection Agency laboratory in Athens, Georgia. I am working with watershed modelers, engineers,  ecologists, chemists, statisticians, and programmers conducting research on environmental protection and sustainability. 
+I am Sumathy Sinnathamby and I am an ORISE postdoctoral fellow at the US Environmental Protection Agency laboratory in Athens, Georgia. I am working with watershed modelers, engineers,  ecologists, chemists, statisticians, and programmers conducting research on environmental protection and sustainability. 
 
 I have a multidisciplinary background and always bring this perspective to my work. I find that being able to look at problems from many perspectives help me to understand it in more depth, make connections between ideas and concepts, enhance my creativity and innovation, and can lead to novel solutions and high impact research. 
 
