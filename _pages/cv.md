@@ -20,6 +20,15 @@ Education
 
 Professional Experience
 ======
+* Oct.2019-Present: Environmental Engineer
+  * Environmental Protection Agency
+  * Duties, Accomplishments and Related Skills: 
+	* Manage multiple aspects of GIS-related projects at various phases, develope project schedules, facilitate the GIS work products, ensured team members have the resources they need to complete their tasks on time to meetdeadlines, and coordinated communication within 	EFED on GIS priorities and information management support.  
+	* Support and assist multidisciplinary EFED teams on how GIS can be used to support pesticide exposureand fate and transport of pesticides in the environment and develop Biological Evaluations (BEs) and otherpesticide risk assessment documents.
+	* Collaborate with the EFED interdisciplinary scientists in developing pesticide risk exposure policies,guidance, risk characterizations, reports and other documentation.
+	* Lead EFED web team for EPA’s Endangered Species Act (ESA) project -coordinated the distribution of ESAmaterials between multidisciplinary workgroups (EFED, FEAD, and ITRMD), supported the ESA team todevelop, produce, review, and edit supporting websites for the biological evaluation release
+	* GIS subject matter expert and trainer- routinely identified EFED training needs, organized courses, anddeveloped written training materials and delivered oral presentations with EFED tailored examples
+    
 * Oct.2016-Present: ORISE Postdoctoral Fellow
   * US EPA/ORD-NERL-CED-Watershed Exposure Branch
   * Research activities: 
