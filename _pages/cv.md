@@ -29,7 +29,7 @@ Professional Experience
 	* Lead EFED web team for EPA’s Endangered Species Act (ESA) project -coordinated the distribution of ESAmaterials between multidisciplinary workgroups (EFED, FEAD, and ITRMD), supported the ESA team todevelop, produce, review, and edit supporting websites for the biological evaluation release
 	* GIS subject matter expert and trainer- routinely identified EFED training needs, organized courses, anddeveloped written training materials and delivered oral presentations with EFED tailored examples
     
-* Oct.2016-Present: ORISE Postdoctoral Fellow
+* Oct.2016-Oct.2019: ORISE Postdoctoral Fellow
   * US EPA/ORD-NERL-CED-Watershed Exposure Branch
   * Research activities: 
 	* Use EPA’s aquatic models to estimate pesticide concentrations in aquatic ecosystems.  
